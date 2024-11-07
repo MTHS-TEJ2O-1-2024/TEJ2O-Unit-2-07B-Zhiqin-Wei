@@ -1,8 +1,8 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Mr. Coxall
- * Created on: oct
- * This program ...
+ * Created by: Daly Wei
+ * Created on: oct 2024
+ * This program Add Numbers
 */
 
 // Happy face at start
