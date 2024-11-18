@@ -9,9 +9,17 @@
 basic.clearScreen()
 basic.showIcon(IconNames.Happy)
 
-let count = 0
+let count = 0;
 
 input.onButtonPressed(Button.A, function () {
-    count += 1
-    basic.showNumber(count)
-})
+    count+=1
+    basic.showNumber(count);
+});
+
+input.onButtonPressed(Button.B, function () {
+    count = 0;
+    basic.showNumber(count);
+});
+
+
+
